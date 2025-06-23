@@ -18,10 +18,10 @@
             --secondary: #2c3e50;
             --accent: #4cc9f0;
             --light: #f8f9fa;
-            --dark: #212529;
-            --success: #4ade80;
+            --dark: #39424b;
+            --success: #9ff3be;
             --warning: #facc15;
-            --danger: #f87171;
+            --danger: #f87101;
             --transition: all 0.3s ease;
         }
 
@@ -268,8 +268,8 @@
         <div class="container">
             <div class="hero-content">
                 <h1>Skip</h1>
-                <h2>ad in hand</h2>
-                <p class="tagline">From business to brand — let's make it happen. Get in touch.</p>
+                <h2>Ad in hand</h2>
+                <p class="tagline">From business to brand — let's make it happent.</p>
                 
                 <div class="contact-grid">
                     <!-- Instagram Card -->
